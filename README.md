@@ -353,8 +353,8 @@ Created with ❤️ using **uAgents**, **ASI1**, **Gemini**, and **MeTTa Knowled
 2. Send: “Analyze this transcript: [paste text]”
 3. Send: “Write about [new topic] in the same tone”
 
-> **Demo Video (3–5 min):** *Add your link here*
-> **Source Code (GitHub):** *Add your repo link here*
+> **Demo Video (3–5 min):** *http://www.loom.com/share/a63d92c5756b492ab61b7c21c2e6e124*
+> **Source Code (GitHub):** *http://github.com/Kanzendev/YouTube-Script-Creator/tree/main*
 
 **Ready to create viral content? Start chatting! 🎬✨**
 
